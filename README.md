@@ -64,3 +64,43 @@ We don't compute answers—we choose which pre-existing answer to observe.
 - **Civilizational Backup**: Humanity's knowledge stored in mountain-sized geological structures
 
 ## 📁 Repository Structure
+
+## 🧪 The Millennium Challenge
+
+We propose an open challenge: **Create a data storage device that can preserve 1MB of critical human knowledge for 10,000 years with zero energy input.**
+
+Parameters:
+- Must be readable with Bronze Age technology (light, lenses, simple mechanics)
+- Must survive climate changes, geological events, human neglect
+- Must have error correction without active maintenance
+- Must be replicable with pre-industrial tools
+
+**The Volumetric Box is Step 1.** The complete solution will redefine humanity's relationship with time and knowledge.
+
+## 🤝 How to Contribute
+
+This isn't just a GitHub project. It's an **intellectual movement**. Contribute by:
+
+1. **Building physical demonstrations** and documenting them
+2. **Developing mathematical formalisms** for topological information
+3. **Proposing new applications** across science and philosophy
+4. **Translating concepts** into other languages and frameworks
+5. **Connecting with researchers** in physics, materials science, archaeology
+
+## 🔗 Connected Work
+
+This principle enables a new computing paradigm:  
+**[Spatial Logic Protocol](https://github.com/cerbrisa-spatial/SPATIAL-LOGIC-PROTOCOL)**  
+*Where computation becomes navigation through pre-encoded mathematical spaces.*
+
+## 📜 License
+
+MIT License - See [LICENSE](LICENSE) for details.
+
+## 🌟 The Vision
+
+> *"What if every mountain already contained all possible books, and reading was just learning which coordinates to observe?"*
+
+We stand at the threshold of understanding information not as something we create, but as something we **discover encoded in the geometry of existence itself.**
+
+**Welcome to the beginning.**
