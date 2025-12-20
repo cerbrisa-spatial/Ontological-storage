@@ -99,7 +99,7 @@ This physical principle enables a new computing paradigm:
 
 ## 📜 License
 
-MIT License - See [LICENSE](LICENSE) for details.
+License - See [LICENSE](LICENSE) for details.
 
 ## 🌟 The Vision
 
